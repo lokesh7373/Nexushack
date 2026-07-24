@@ -1,3 +1,5 @@
+
+
 # AMMS (AI Machine Monitoring System) — NexusHacks Embedded AI
 
 **Category:** Embedded AI · NexusHacks (Phaser) · Jul 21–23, 2026
@@ -247,6 +249,6 @@ streamlit run app.py --server.address 0.0.0.0
 
 # Demo Video
 
-[Output\Nexus.webm](https://github.com/lokesh7373/Nexushack/blob/main/NEXUS_HACK/Output/Nexus.webm)
+[![AIMM Demo Video](https://youtu.be/i9d9gp8DXdYsi=4rrA1nOWkaotx9o6)]([https://youtube.com](https://youtu.be/i9d9gp8DXdYsi=4rrA1nOWkaotx9o6))
 ---
 
