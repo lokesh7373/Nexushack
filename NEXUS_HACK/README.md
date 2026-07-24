@@ -247,6 +247,6 @@ streamlit run app.py --server.address 0.0.0.0
 
 # Demo Video
 
-Output\Nexus.webm
+[Output\Nexus.webm](https://github.com/lokesh7373/Nexushack/blob/main/NEXUS_HACK/Output/Nexus.webm)
 ---
 
