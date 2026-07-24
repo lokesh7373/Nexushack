@@ -249,6 +249,6 @@ streamlit run app.py --server.address 0.0.0.0
 
 # Demo Video
 
-[![AIMM Demo Video](https://youtu.be/i9d9gp8DXdYsi=4rrA1nOWkaotx9o6)]([https://youtube.com](https://youtu.be/i9d9gp8DXdYsi=4rrA1nOWkaotx9o6))
+[![Watch the video](https://img.youtube.com/vi/i9d9gp8DXdY/0.jpg)](https://www.youtube.com/watch?v=i9d9gp8DXdY)
 ---
 
