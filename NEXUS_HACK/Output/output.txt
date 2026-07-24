@@ -1,0 +1,10 @@
+"meter_readings": {"voltage": {"value": 5.09, "unit": "V", "status": "UNSAFE"},   
+"current": { "value": 1.05, "unit": "A", "status": "SAFE"\n    },    
+"power": {"value": 8.18,\n      "unit": "W","status": "SAFE"},\n    
+"frequency": {\n      "value": 680.3,\n      "unit": "Hz",\n      "status": "UNSAFE"\n    },\n    
+"power_factor": {\n      "value": "UNKNOWN",\n      "unit": "",\n      "status": "UNKNOWN"\n    }\n  },\n  "overall_status": "UNSAFE",\n  "remarks": [\n    
+"Voltage is below the safe operating limit (180 V - 240 V).",\n    
+"Current is within limits.",\n    
+"Power is within limits.",\n    
+"Frequency is significantly outside the allowable range (49 Hz - 51 Hz).",\n    
+"Power Factor reading is unavailable.
